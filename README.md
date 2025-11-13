@@ -6,7 +6,7 @@
 - Computer Science Student
 - Currently studying in the field of IT and Computer Science (2025 – present)							       		
 - High School Graduate, 2025 			        		
-- Office Tools | Word, Excel, PowerPoint (Completed 2024)
+- Office Tools: Word, Excel, PowerPoint (Completed 2024)
 
 ## Projects
 ### Telegram AI Bot - 2024
